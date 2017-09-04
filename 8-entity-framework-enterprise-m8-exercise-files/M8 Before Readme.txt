@@ -1,0 +1,1 @@
+Module8,Mapping DDD Domain Models with EF, begins where we left off in Module 7 (Disconnected Data), so you can start with the Module 7 After version of the sample.

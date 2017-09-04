@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MvcSalesApp.Domain.Address" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAAAgAAAAIIAAAAAAAAAAAABAAAAIAAAQAAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcSalesApp.Domain.CartItem">
+    <Position X="2.5" Y="2" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ECAAAAAAAAAAAAAAAAAAAAAAAAIAAVAAAAAAgAAACAA=</HashCode>
+      <FileName>CartItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcSalesApp.Domain.Category" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAIAAAAAAAAQ=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcSalesApp.Domain.ContactDetail" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIBAAQAAABAAAAAgAAAAAAFAAEABAAAAAAAA=</HashCode>
+      <FileName>ContactDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcSalesApp.Domain.Customer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AANAAEAAAAEAAIAAAAAAABAAAAAQEBAAAAAAAAAAAAg=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcSalesApp.Domain.LineItem" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAECAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>LineItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcSalesApp.Domain.NewCart">
+    <Position X="0.5" Y="2" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAEEQAAkAAAAAIgAAAAAAAAAAAAEBAAIAAAAAAACAA=</HashCode>
+      <FileName>NewCart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcSalesApp.Domain.Order" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAEAAAAAAAAAAAAAAAACAAAAAAAAABAAAQAAAAAAAAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcSalesApp.Domain.Product" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAgAgAAAAAAAAQAAAIAAAAAAAAAAIAACkA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcSalesApp.Domain.RevisitedCart">
+    <Position X="4.5" Y="2" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAgCAABAAgAAAAAAAAAAQAAFABABAAAAAACAA=</HashCode>
+      <FileName>RevisitedCart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

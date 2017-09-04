@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSalesApp.Web", "MvcSalesApp\MvcSalesApp.Web.csproj", "{51F7CB6A-0A57-4FB9-B311-F43545D70B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSalesApp.Domain", "MvcSalesApp.Domain\MvcSalesApp.Domain.csproj", "{12618FF0-ACDC-4ACD-A553-D02AF93E8314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSalesApp.Data", "MvcSalesApp.Data\MvcSalesApp.Data.csproj", "{8FBF7E1B-17BD-48E6-B133-B5A3C690C56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F7CB6A-0A57-4FB9-B311-F43545D70B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F7CB6A-0A57-4FB9-B311-F43545D70B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F7CB6A-0A57-4FB9-B311-F43545D70B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F7CB6A-0A57-4FB9-B311-F43545D70B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12618FF0-ACDC-4ACD-A553-D02AF93E8314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12618FF0-ACDC-4ACD-A553-D02AF93E8314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12618FF0-ACDC-4ACD-A553-D02AF93E8314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12618FF0-ACDC-4ACD-A553-D02AF93E8314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBF7E1B-17BD-48E6-B133-B5A3C690C56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBF7E1B-17BD-48E6-B133-B5A3C690C56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBF7E1B-17BD-48E6-B133-B5A3C690C56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBF7E1B-17BD-48E6-B133-B5A3C690C56C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
